@@ -40,6 +40,8 @@ def main():
     inputStr = "myinput"
     print("Unique" if (isStrUnique(inputStr) is True) else "Not unique.")
     print("Unique" if (isStrUnique2(inputStr) is True) else "Not unique.")
+    a = ("A", "b" "d")
+    print(a)
     
 main()
 
